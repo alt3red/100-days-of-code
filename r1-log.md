@@ -13,6 +13,9 @@ Added OS detection to the app and saving/loading to file feature.
 ### R1D3
 Did 2 exercises from exercism.io
 
-### R1D2
+### R1D4
 Created 2 scripts, one for deleting files from a list and one for moving files
 from a given list into a given folder
+
+### R1D5
+Did 3 more exercises from exercism.io
