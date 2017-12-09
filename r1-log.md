@@ -19,3 +19,6 @@ from a given list into a given folder
 
 ### R1D5
 Did 3 more exercises from exercism.io
+
+### R1D6
+I did the word-count exercise from exercism.io
