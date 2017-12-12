@@ -28,3 +28,6 @@ I submitted gigasecond and bob solutions on exercism.io. Gigasecond has an easie
 
 ### R1D8
 I learned about the click library and used it to build a sample weather CLI
+
+### R1D9
+I submitted run_length_encoding to exercism.io
