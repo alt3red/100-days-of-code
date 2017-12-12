@@ -23,5 +23,8 @@ Did 3 more exercises from exercism.io
 ### R1D6
 I did the word-count exercise from exercism.io
 
-### R2D7
+### R1D7
 I submitted gigasecond and bob solutions on exercism.io. Gigasecond has an easier way that I did will have to revisit.
+
+### R1D8
+I learned about the click library and used it to build a sample weather CLI
