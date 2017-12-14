@@ -31,3 +31,6 @@ I learned about the click library and used it to build a sample weather CLI
 
 ### R1D9
 I submitted run_length_encoding to exercism.io
+
+### R1D10
+I did a few exercises on CodeWars
