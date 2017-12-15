@@ -34,3 +34,6 @@ I submitted run_length_encoding to exercism.io
 
 ### R1D10
 I did a few exercises on CodeWars
+
+### R1D11
+I did 2 CodeWars katas and I playes with InstaPy
