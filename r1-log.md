@@ -37,3 +37,6 @@ I did a few exercises on CodeWars
 
 ### R1D11
 I did 2 CodeWars katas and I playes with InstaPy
+
+### R1D12
+CodeWars and pytip setup example walkthrough
