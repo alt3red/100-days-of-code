@@ -40,3 +40,6 @@ I did 2 CodeWars katas and I playes with InstaPy
 
 ### R1D12
 CodeWars and pytip setup example walkthrough
+
+### R1D13
+Managing Python Dependencies
