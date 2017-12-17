@@ -43,3 +43,6 @@ CodeWars and pytip setup example walkthrough
 
 ### R1D13
 Managing Python Dependencies
+
+### R1D14
+Did first 4 chapter of the Flask Mega Tutotial book
