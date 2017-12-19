@@ -46,3 +46,6 @@ Managing Python Dependencies
 
 ### R1D14
 Did first 4 chapter of the Flask Mega Tutotial book
+
+### R1D15
+Added login and registration to the Microblog app
