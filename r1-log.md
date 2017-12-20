@@ -52,3 +52,6 @@ Added login and registration to the Microblog app
 
 ### R1D16
 Profile page and avatars added
+
+### R1D17
+Error handling, logging and email on error
