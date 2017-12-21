@@ -55,3 +55,6 @@ Profile page and avatars added
 
 ### R1D17
 Error handling, logging and email on error
+
+### R1D18
+Added user following option and unittesting
