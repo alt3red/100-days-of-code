@@ -58,3 +58,6 @@ Error handling, logging and email on error
 
 ### R1D18
 Added user following option and unittesting
+
+### R1D19
+Worked on Microblog, added followers support, tests and redid posts query, fixed postgres for testdriven and did a code challenge on codechalleng.es
