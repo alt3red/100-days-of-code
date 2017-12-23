@@ -61,3 +61,6 @@ Added user following option and unittesting
 
 ### R1D19
 Worked on Microblog, added followers support, tests and redid posts query, fixed postgres for testdriven and did a code challenge on codechalleng.es
+
+### R1D20
+Added pagination to the Microblog
