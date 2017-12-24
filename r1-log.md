@@ -64,3 +64,6 @@ Worked on Microblog, added followers support, tests and redid posts query, fixed
 
 ### R1D20
 Added pagination to the Microblog
+
+### R1D21
+Added email support and password reset features to Microblog
