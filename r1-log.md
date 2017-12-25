@@ -67,3 +67,6 @@ Added pagination to the Microblog
 
 ### R1D21
 Added email support and password reset features to Microblog
+
+### R1D22
+Added bootstrap and better datetime using moment
