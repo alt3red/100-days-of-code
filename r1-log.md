@@ -70,3 +70,6 @@ Added email support and password reset features to Microblog
 
 ### R1D22
 Added bootstrap and better datetime using moment
+
+### R1D23
+Added language and locale support
