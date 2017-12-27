@@ -73,3 +73,6 @@ Added bootstrap and better datetime using moment
 
 ### R1D23
 Added language and locale support
+
+### R1D24
+Python Scripting for System Administrators @ LinuxAcademy.com
