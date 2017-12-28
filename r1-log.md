@@ -76,3 +76,6 @@ Added language and locale support
 
 ### R1D24
 Python Scripting for System Administrators @ LinuxAcademy.com
+
+### R1D25
+Did a few exercises from the Python Scripting course
