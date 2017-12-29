@@ -79,3 +79,6 @@ Python Scripting for System Administrators @ LinuxAcademy.com
 
 ### R1D25
 Did a few exercises from the Python Scripting course
+
+### R1D26
+Added Ajax Post Translate feature to Microblog
