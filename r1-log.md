@@ -82,3 +82,6 @@ Did a few exercises from the Python Scripting course
 
 ### R1D26
 Added Ajax Post Translate feature to Microblog
+
+### R1D27
+Added Blueprints and .env file to Microblog
