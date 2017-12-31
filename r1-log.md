@@ -85,3 +85,6 @@ Added Ajax Post Translate feature to Microblog
 
 ### R1D27
 Added Blueprints and .env file to Microblog
+
+### R1D28
+Added elasticsearch functionality to Microblog
