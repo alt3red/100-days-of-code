@@ -88,3 +88,6 @@ Added Blueprints and .env file to Microblog
 
 ### R1D28
 Added elasticsearch functionality to Microblog
+
+### R1D29
+Added JavaScript popup and User Notifications to Microblog
