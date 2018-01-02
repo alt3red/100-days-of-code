@@ -91,3 +91,6 @@ Added elasticsearch functionality to Microblog
 
 ### R1D29
 Added JavaScript popup and User Notifications to Microblog
+
+### R1D30
+Finished Microblog by adding notifications and API access
