@@ -94,3 +94,6 @@ Added JavaScript popup and User Notifications to Microblog
 
 ### R1D30
 Finished Microblog by adding notifications and API access
+
+### R1D31
+Started Real Python Part 2 to better learn about Flask
