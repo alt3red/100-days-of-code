@@ -97,3 +97,6 @@ Finished Microblog by adding notifications and API access
 
 ### R1D31
 Started Real Python Part 2 to better learn about Flask
+
+### R1D32
+More Real Python & sqlite3
