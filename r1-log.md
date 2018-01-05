@@ -100,3 +100,6 @@ Started Real Python Part 2 to better learn about Flask
 
 ### R1D32
 More Real Python & sqlite3
+
+### R1D33
+Continued with the Real Python book and sqlite3
