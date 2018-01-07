@@ -103,3 +103,6 @@ More Real Python & sqlite3
 
 ### R1D33
 Continued with the Real Python book and sqlite3
+
+### R1D34
+Finished sql and started the Flask Blog
