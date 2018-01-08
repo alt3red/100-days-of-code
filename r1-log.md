@@ -106,3 +106,6 @@ Continued with the Real Python book and sqlite3
 
 ### R1D34
 Finished sql and started the Flask Blog
+
+### R1D35
+Added main template page and login/logout feature
