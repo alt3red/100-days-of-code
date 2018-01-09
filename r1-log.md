@@ -109,3 +109,6 @@ Finished sql and started the Flask Blog
 
 ### R1D35
 Added main template page and login/logout feature
+
+### R1D36
+Continued with the RP book 2 - Debugging in Python with pdb
