@@ -112,3 +112,6 @@ Added main template page and login/logout feature
 
 ### R1D36
 Continued with the RP book 2 - Debugging in Python with pdb
+
+### R1D37
+Created FlaskTaskr following the Real Python book 2
