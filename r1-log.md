@@ -115,3 +115,6 @@ Continued with the RP book 2 - Debugging in Python with pdb
 
 ### R1D37
 Created FlaskTaskr following the Real Python book 2
+
+### R1D38
+Transformed FlaskTaskr to use SQLAlchemy
