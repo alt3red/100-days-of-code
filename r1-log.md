@@ -118,3 +118,6 @@ Created FlaskTaskr following the Real Python book 2
 
 ### R1D38
 Transformed FlaskTaskr to use SQLAlchemy
+
+### R1D39
+Added registration and authentification to flasktaskr
