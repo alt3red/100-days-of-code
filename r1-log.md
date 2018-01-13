@@ -121,3 +121,6 @@ Transformed FlaskTaskr to use SQLAlchemy
 
 ### R1D39
 Added registration and authentification to flasktaskr
+
+### R1D40
+Added user defined tasks and session control to flasktaskr
