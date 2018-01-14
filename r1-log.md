@@ -124,3 +124,6 @@ Added registration and authentification to flasktaskr
 
 ### R1D40
 Added user defined tasks and session control to flasktaskr
+
+### R1D41
+Added better error handling to flasktaskr
