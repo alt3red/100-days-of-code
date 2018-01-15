@@ -127,3 +127,6 @@ Added user defined tasks and session control to flasktaskr
 
 ### R1D41
 Added better error handling to flasktaskr
+
+### R1D42
+Added tests to flasktask
