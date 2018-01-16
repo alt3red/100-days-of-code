@@ -130,3 +130,6 @@ Added better error handling to flasktaskr
 
 ### R1D42
 Added tests to flasktask
+
+### R1D43
+Added bootstrap, brought in more tests and changed existing ones
