@@ -133,3 +133,6 @@ Added tests to flasktask
 
 ### R1D43
 Added bootstrap, brought in more tests and changed existing ones
+
+### R1D44
+Started the Object Oriented Python on Treehouse
