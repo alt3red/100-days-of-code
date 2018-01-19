@@ -136,3 +136,6 @@ Added bootstrap, brought in more tests and changed existing ones
 
 ### R1D44
 Started the Object Oriented Python on Treehouse
+
+### R1D45
+Did some Treehouse OOP and some file util scripts
