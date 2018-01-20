@@ -139,3 +139,9 @@ Started the Object Oriented Python on Treehouse
 
 ### R1D45
 Did some Treehouse OOP and some file util scripts
+
+### R1D46
+More OOP with Treehouse - Inheritance
+
+### R1D47
+Continued OOP with Treehouse - Advanced Objects
