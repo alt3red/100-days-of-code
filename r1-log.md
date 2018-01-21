@@ -145,3 +145,6 @@ More OOP with Treehouse - Inheritance
 
 ### R1D47
 Continued OOP with Treehouse - Advanced Objects
+
+### R1D48
+Finished the OOP class with treehouse - Dice Roller
