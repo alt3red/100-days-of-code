@@ -148,3 +148,6 @@ Continued OOP with Treehouse - Advanced Objects
 
 ### R1D48
 Finished the OOP class with treehouse - Dice Roller
+
+### R1D49
+Treehouse - Write Better Python, course about docstrings, logging and debugging
