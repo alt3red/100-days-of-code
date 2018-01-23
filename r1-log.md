@@ -151,3 +151,6 @@ Finished the OOP class with treehouse - Dice Roller
 
 ### R1D49
 Treehouse - Write Better Python, course about docstrings, logging and debugging
+
+### R1D50
+Treehouse - Dates and Times Module 1
