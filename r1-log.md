@@ -157,3 +157,6 @@ Treehouse - Dates and Times Module 1
 
 ### R1D51
 Treehouse - Dates and Times Module 2
+
+### R1D52
+Treehouse - Finished date and time class
