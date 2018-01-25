@@ -154,3 +154,6 @@ Treehouse - Write Better Python, course about docstrings, logging and debugging
 
 ### R1D50
 Treehouse - Dates and Times Module 1
+
+### R1D51
+Treehouse - Dates and Times Module 2
