@@ -160,3 +160,9 @@ Treehouse - Dates and Times Module 2
 
 ### R1D52
 Treehouse - Finished date and time class
+
+### R1D53
+Treehouse - Regex 1
+
+### R1D54
+Treehouse - Regex 2
