@@ -169,3 +169,6 @@ Treehouse - Regex 2
 
 ### R1D55
 Treehouse - Finished Learn Python Track, did the Python Testing module
+
+### R1D56
+Started Write Pythonic Code from talkpython.fm - PEP8
