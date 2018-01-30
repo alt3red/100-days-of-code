@@ -172,3 +172,6 @@ Treehouse - Finished Learn Python Track, did the Python Testing module
 
 ### R1D56
 Started Write Pythonic Code from talkpython.fm - PEP8
+
+### R1D57
+Write Pythonic Code - Foundational concepts
