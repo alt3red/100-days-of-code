@@ -175,3 +175,6 @@ Started Write Pythonic Code from talkpython.fm - PEP8
 
 ### R1D57
 Write Pythonic Code - Foundational concepts
+
+### R1D58
+Write Pythonic Code - Dictionaries
