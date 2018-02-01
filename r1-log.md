@@ -178,3 +178,6 @@ Write Pythonic Code - Foundational concepts
 
 ### R1D58
 Write Pythonic Code - Dictionaries
+
+### R1D59
+Write Pythonic Code - Generators and Collections
