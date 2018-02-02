@@ -181,3 +181,6 @@ Write Pythonic Code - Dictionaries
 
 ### R1D59
 Write Pythonic Code - Generators and Collections
+
+### R1D60
+Write Pythonic Code - Methods and Functions
