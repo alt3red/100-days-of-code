@@ -184,3 +184,6 @@ Write Pythonic Code - Generators and Collections
 
 ### R1D60
 Write Pythonic Code - Methods and Functions
+
+### R1D61
+Write Pythonic Code - Modules and Packages & Classes and Objects
