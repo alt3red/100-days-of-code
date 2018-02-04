@@ -187,3 +187,6 @@ Write Pythonic Code - Methods and Functions
 
 ### R1D61
 Write Pythonic Code - Modules and Packages & Classes and Objects
+
+### R1D62
+Write Pythonic Code - Loops, Tuples & Python for Humans
