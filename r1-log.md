@@ -190,3 +190,6 @@ Write Pythonic Code - Modules and Packages & Classes and Objects
 
 ### R1D62
 Write Pythonic Code - Loops, Tuples & Python for Humans
+
+### R1D63
+Black Hat Python - TCP, UDP client, TCP server, started netcat
