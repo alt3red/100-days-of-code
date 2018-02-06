@@ -193,3 +193,6 @@ Write Pythonic Code - Loops, Tuples & Python for Humans
 
 ### R1D63
 Black Hat Python - TCP, UDP client, TCP server, started netcat
+
+### R1D64
+Talk Python - RESTful and HTTP APIs in Pyramid - Your first service
