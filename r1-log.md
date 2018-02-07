@@ -196,3 +196,6 @@ Black Hat Python - TCP, UDP client, TCP server, started netcat
 
 ### R1D64
 Talk Python - RESTful and HTTP APIs in Pyramid - Your first service
+
+### R1D65
+Talk Python - RESTful and HTTP APIs in Pyramid - Calling services
