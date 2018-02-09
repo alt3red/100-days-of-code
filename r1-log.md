@@ -202,3 +202,6 @@ Talk Python - RESTful and HTTP APIs in Pyramid - Calling services
 
 ### R1D66
 Talk Python - A Nearly RESTful service
+
+### R1D67
+Talk Python - Pyramid renderers
