@@ -205,3 +205,6 @@ Talk Python - A Nearly RESTful service
 
 ### R1D67
 Talk Python - Pyramid renderers
+
+### R1D68
+Talk Python - Renderer CSV
