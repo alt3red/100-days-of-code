@@ -208,3 +208,6 @@ Talk Python - Pyramid renderers
 
 ### R1D68
 Talk Python - Renderer CSV
+
+### R1D69
+Pyramid Services - Image and Abstract Renderers
