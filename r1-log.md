@@ -214,3 +214,6 @@ Pyramid Services - Image and Abstract Renderers
 
 ### R1D70
 Pyramid Services - Content Negociation
+
+### R1D71
+More Content Negociation - Negociating Renderers
