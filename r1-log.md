@@ -217,3 +217,6 @@ Pyramid Services - Content Negociation
 
 ### R1D71
 More Content Negociation - Negociating Renderers
+
+### R1D72
+Validation with viewmodel
