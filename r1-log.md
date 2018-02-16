@@ -220,3 +220,6 @@ More Content Negociation - Negociating Renderers
 
 ### R1D72
 Validation with viewmodel
+
+### R1D73
+More Validation with view models
