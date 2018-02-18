@@ -226,3 +226,6 @@ More Validation with view models
 
 ### R1D74
 Adding a database backend with SQLAlchemy
+
+### R1D75
+Authenticated services
