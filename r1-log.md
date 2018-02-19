@@ -229,3 +229,6 @@ Adding a database backend with SQLAlchemy
 
 ### R1D75
 Authenticated services
+
+### R1D76
+Logging and monitoring in Pyramid
