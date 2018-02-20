@@ -232,3 +232,6 @@ Authenticated services
 
 ### R1D76
 Logging and monitoring in Pyramid
+
+### R1D77
+Deploying a Pyramid Project to Digital Ocean on Ubuntu
