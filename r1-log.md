@@ -235,3 +235,6 @@ Logging and monitoring in Pyramid
 
 ### R1D77
 Deploying a Pyramid Project to Digital Ocean on Ubuntu
+
+### R1D78
+Finished RESTful APIs in Pyramid - Documenting Pyramid API
