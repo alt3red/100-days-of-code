@@ -238,3 +238,6 @@ Deploying a Pyramid Project to Digital Ocean on Ubuntu
 
 ### R1D78
 Finished RESTful APIs in Pyramid - Documenting Pyramid API
+
+### R1D79
+Back to the basics - Hello World, Guess the number
