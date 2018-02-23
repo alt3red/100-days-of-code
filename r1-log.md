@@ -241,3 +241,6 @@ Finished RESTful APIs in Pyramid - Documenting Pyramid API
 
 ### R1D79
 Back to the basics - Hello World, Guess the number
+
+### R1D80
+The one about birthdays and days until then
