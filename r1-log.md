@@ -244,3 +244,6 @@ Back to the basics - Hello World, Guess the number
 
 ### R1D80
 The one about birthdays and days until then
+
+### R1D81
+Journal app and file I/O - TalkPython
