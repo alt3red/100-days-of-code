@@ -247,3 +247,6 @@ The one about birthdays and days until then
 
 ### R1D81
 Journal app and file I/O - TalkPython
+
+### R1D82
+Weather scraping with bs4
