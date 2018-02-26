@@ -250,3 +250,6 @@ Journal app and file I/O - TalkPython
 
 ### R1D82
 Weather scraping with bs4
+
+### R1D83
+Download images and saving them LOLCat Factory
