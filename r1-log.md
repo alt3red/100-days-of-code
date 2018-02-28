@@ -256,3 +256,6 @@ Download images and saving them LOLCat Factory
 
 ### R1D84
 Wizard Battle App - Classes
+
+### R1D85
+File Searcher App & Generators
