@@ -259,3 +259,6 @@ Wizard Battle App - Classes
 
 ### R1D85
 File Searcher App & Generators
+
+### R1D86
+Real Estate Analysis 1 - Parsing CSV and classes
