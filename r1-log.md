@@ -262,3 +262,6 @@ File Searcher App & Generators
 
 ### R1D86
 Real Estate Analysis 1 - Parsing CSV and classes
+
+### R1D87
+List Comprehension and Generators
