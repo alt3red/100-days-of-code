@@ -265,3 +265,6 @@ Real Estate Analysis 1 - Parsing CSV and classes
 
 ### R1D87
 List Comprehension and Generators
+
+### R1D88
+Search api and adressing exceptions
