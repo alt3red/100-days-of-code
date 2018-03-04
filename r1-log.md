@@ -268,3 +268,6 @@ List Comprehension and Generators
 
 ### R1D88
 Search api and adressing exceptions
+
+### R1D89
+Http Services - requests, git & json
