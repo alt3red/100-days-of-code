@@ -271,3 +271,6 @@ Search api and adressing exceptions
 
 ### R1D89
 Http Services - requests, git & json
+
+### R1D90
+XML services with requests & binary downloads
