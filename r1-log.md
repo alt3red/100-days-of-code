@@ -274,3 +274,6 @@ Http Services - requests, git & json
 
 ### R1D90
 XML services with requests & binary downloads
+
+### R1D91
+Consuming RESTful HTTP services GET, POST, PUT, DELETE
