@@ -277,3 +277,6 @@ XML services with requests & binary downloads
 
 ### R1D91
 Consuming RESTful HTTP services GET, POST, PUT, DELETE
+
+### R1D92
+HTTP services with Python builtins
