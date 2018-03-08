@@ -280,3 +280,6 @@ Consuming RESTful HTTP services GET, POST, PUT, DELETE
 
 ### R1D92
 HTTP services with Python builtins
+
+### R1D93
+Calling SOAP services from Python with suds
