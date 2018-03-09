@@ -283,3 +283,6 @@ HTTP services with Python builtins
 
 ### R1D93
 Calling SOAP services from Python with suds
+
+### R1D94
+Accessing authenticated HTTP services
