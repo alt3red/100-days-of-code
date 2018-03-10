@@ -286,3 +286,6 @@ Calling SOAP services from Python with suds
 
 ### R1D94
 Accessing authenticated HTTP services
+
+### R1D95
+Screen Scraping
