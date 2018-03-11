@@ -289,3 +289,6 @@ Accessing authenticated HTTP services
 
 ### R1D95
 Screen Scraping
+
+### R1D96
+Using the DarkSky Weather API with zip to lat, long from file
